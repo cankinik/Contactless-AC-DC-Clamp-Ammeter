@@ -1,4 +1,4 @@
-# EEE-351-Course-Project
+# Contactless AC/DC Clamp Ammeter
 Contactless AC/DC Clamp Ammeter
 
 A device composed of a hall effect sensor embedded in a toroidal metal core, Arduino Uno, LCD and additional circuitry that displays characteristics of current passing through a wire without contact. The system is a clamp that can be placed around a wire and adjusts itself for both AC and DC signals with up to 1A, 150Hz with a precision of around 2.2%. Additionally, OPAMPs are used to enhance the signal and filters are introduced to obtain better samples.
